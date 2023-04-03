@@ -1,4 +1,4 @@
-package com.example.lottieandriodissue2271
+package com.example.lottieandroidissue2271
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

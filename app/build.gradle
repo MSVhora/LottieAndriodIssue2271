@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.lottieandriodissue2271'
+    namespace 'com.example.lottieandroidissue2271'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.lottieandriodissue2271"
+        applicationId 'com.example.lottieandroidissue2271'
         minSdk 21
         targetSdk 33
         versionCode 1
