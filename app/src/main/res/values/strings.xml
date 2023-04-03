@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">LottieAndroidIssue2271</string>
     <string name="valid_json_url">https://assets8.lottiefiles.com/packages/lf20_wf3oofwn.json</string>
-    <string name="invalid_json_url">https://test.com/test.json</string>
+    <string name="invalid_json_url">https://ideal2.taskeasy.com/uiassets/animation_customer</string>
     <string name="valid_json_url_label">LottieAnimationView(Valid JSON Url)</string>
     <string name="valid_json_url_with_placeholder_label">LottieAnimationView(Valid JSON Url) with placeholder</string>
     <string name="invalid_json_url_label">LottieAnimationView(Invalid JSON Url)</string>
